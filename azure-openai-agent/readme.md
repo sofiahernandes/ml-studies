@@ -23,8 +23,9 @@
 🔐 Botão para imprimir/exportar o grafo gerado  
 <br/>
 
-![Sobre o Stride](/public//stride.png)
-
+<div align="center">
+  <img src="https://github.com/sofiahernandes/ml-studies/blob/main/azure-openai-agent/public/stride.png" alt="Sobre o STRIDE"/>
+</div>
 <br/>
 
 ## 🛠️ Começando
